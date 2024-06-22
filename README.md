@@ -56,12 +56,4 @@ This project is licensed under the MIT License.
 
 
 
-### 3. **Error Handling**
 
-Implement error handling for both front-end and back-end components. For example, in your API calls in the frontend, you should catch errors and handle them appropriately.
-
-### 4. **Responsive Design**
-
-Ensure your application is responsive by using CSS media queries or a CSS framework like Bootstrap.
-
-By following these steps and ensuring your project structure and code align with these guidelines, you can verify that your Task Management Application is built correctly and meets the assignment requirements.
